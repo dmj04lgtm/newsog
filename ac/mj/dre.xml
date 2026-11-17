@@ -1,1 +1,11 @@
-<krpano><include url="https://dmj04lgtm.github.io/newsog/ac/mj/dre.xml"/></krpano>
+<krpano version="1.0.8.15" title="Virtual Tour">
+
+    <!-- আপনার ট্যুরের দৃশ্য বা ইমেজ লোড করার কোড এখানে থাকবে -->
+    <scene name="scene_1" title="Room 1">
+        <view hlookat="0" vlookat="0" fov="90" />
+        <image>
+            <cube url="panos/room1/pano_%s.jpg" />
+        </image>
+    </scene>
+
+</krpano>
